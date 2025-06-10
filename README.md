@@ -70,5 +70,9 @@ Follow the sections to understand:
 How users and admins interact with the platform.
 How the database stores and retrieves data.
 The flow of actions across the website.
+links for the website::1)http://localhost/ecommerce/pages/register.php
+2)login::http://localhost/ecommerce/pages/login.php
+3)index.php::http://localhost/ecommerce/index.php
+4)xampp database url::http://localhost/phpmyadmin/index.php?route=/sql&pos=0&db=ecommerce&table=users.
 
 For detailed implementation, refer to the individual PHP files for each feature. Let me know if this structure works for you!
